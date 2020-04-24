@@ -13,8 +13,8 @@ public class JavaConfig {
 @Bean
 public SBU sbu()
 {
-	Employee employee1=new Employee(1,"Ashku",30000,21);
-	Employee employee2=new Employee(2,"Anushka",50000,21);
+	Employee employee1=new Employee(1,"Laddoo",45000,21);
+	Employee employee2=new Employee(2,"Navdeep",40000,21);
 	
 	List<Employee> empList=new ArrayList<>();
 	empList.add(employee1);
