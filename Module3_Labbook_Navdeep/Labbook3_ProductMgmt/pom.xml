@@ -14,7 +14,7 @@
         <slf4j.version>1.7.26</slf4j.version>
         <log4j.version>1.7.26</log4j.version>
         <oracle_driver.version>11.2.0.3</oracle_driver.version>
-        <hibernate.version>5.3.10.Final</hibernate.version>
+        <hibernate.version>5.4.24.Final</hibernate.version>
     </properties>
 
     <dependencies>
